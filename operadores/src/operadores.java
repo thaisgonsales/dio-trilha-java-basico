@@ -37,6 +37,24 @@ public class operadores {
 
         System.out.println(resultado);
 
+        int numeros1, numeros2;
+        numeros1 = 20;
+        numeros2 = 30;
+
+        if (numeros1 <= numeros2)
+        {
+            System.out.println("verdadeiro");
+        } else{
+            System.out.println("falso");
+        }
+
+
+
+
+
+
+
+
 
     }
 }
