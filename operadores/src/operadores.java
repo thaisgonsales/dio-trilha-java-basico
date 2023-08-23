@@ -1,4 +1,4 @@
-public class operadores_java {
+public class operadores {
 
     public static void main(String[] args) {
         //Multiplicacao
@@ -29,6 +29,14 @@ public class operadores_java {
 
         int modulo = 18 % 3;
         System.out.println(modulo);
+
+        int a, b;
+        a = 5;
+        b = 6;
+        String resultado = a==b ?"verdadeiro" : "falso";
+
+        System.out.println(resultado);
+
 
     }
 }
